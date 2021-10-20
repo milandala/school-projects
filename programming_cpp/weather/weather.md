@@ -12,6 +12,10 @@ Write a program that prints
 ## Input
 In the first line of the standard input the number of the days (N) can be found. Under that, line by line there are the daily minimum and maximum temperature.
 
+## Output
+The answer of each question should be printed to the standard output line by line seperated by '#'.
+
+## Example
 | Input | Output |
 |-------|--------|
 | 6     | #      |
@@ -21,5 +25,5 @@ In the first line of the standard input the number of the days (N) can be found.
 | -5 0  | #      |
 | 2 10  | 3      |
 | 10 13 | 2 1 2  |
-|       |        |
+
 
