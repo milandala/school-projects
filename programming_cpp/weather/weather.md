@@ -12,13 +12,14 @@ Write a program that prints
 ## Input
 In the first line of the standard input the number of the days (N) can be found. Under that, line by line there are the daily minimum and maximum temperature.
 
-| Bemenet | Kimenet |
-|-------------------|
-|    6    |    4    |
-|-5 5     |    #|
-|0 10     |    1|
-|-5 -3    |    # |
-|-5 0     |    3|
-|2 10     |    #|
-|10 13    |    2|
-|2 1      |  |
+| Input | Output |
+|-------|--------|
+| 6     | #      |
+| -5 5  | 4      |
+| 0 10  | #      |
+| -5 -3 | 1      |
+| -5 0  | #      |
+| 2 10  | 3      |
+| 10 13 | 2 1 2  |
+|       |        |
+
